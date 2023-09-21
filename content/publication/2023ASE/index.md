@@ -20,7 +20,7 @@ author_notes:
 - "corresponding"
 
 date: "2023-07-18T00:00:00Z"
-doi: ''
+doi: '10.48550/arXiv.2309.11021'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-07-18T00:00:00Z"
@@ -72,7 +72,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- 2023ASE
+- 
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
